@@ -5,5 +5,8 @@ return new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invok
 re_frame.core.reg_sub.cljs$core$IFn$_invoke$arity$variadic(new cljs.core.Keyword("my-app2.subs","db","my-app2.subs/db",-400894182),cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([(function (db,query){
 return new cljs.core.Keyword(null,"selected-holds","selected-holds",-59437768).cljs$core$IFn$_invoke$arity$1(db);
 })], 0));
+re_frame.core.reg_sub.cljs$core$IFn$_invoke$arity$variadic(new cljs.core.Keyword("my-app2.subs","grade","my-app2.subs/grade",1123985410),cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([(function (db){
+return new cljs.core.Keyword(null,"grade","grade",2117054771).cljs$core$IFn$_invoke$arity$1(db);
+})], 0));
 
 //# sourceMappingURL=my_app2.subs.js.map
